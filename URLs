@@ -1,10 +1,13 @@
 {
-  {
-    "name":"/Audi",
-    "data":"/car"
-  },
-  {
-    "name":"/BMW",
-    "data":"/car"
-  }
+  "name":"URL_map2",
+  "type":"string",
+  "records":[
+    {
+     "name":"/Audi",
+     "data":"/car"
+    },
+    {
+      "name":"/BMW",
+      "data":"/car"
+    }]
  }
