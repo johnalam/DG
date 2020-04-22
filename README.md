@@ -5,4 +5,4 @@ The name of this data-group is "Car_map".  The partition is not specified and wi
 
 This is an "internal" data-group of type "string".
 
-Use this file to test automation tools that download a data-group from a version control server and POST it to an F5 Big-IP vua a REST call.
+Use this file to test automation tools that download a data-group from a version control server and POST it to an F5 Big-IP via a REST call.
